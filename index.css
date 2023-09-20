@@ -1,0 +1,13 @@
+.clouds{
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-color: rgb(208, 231, 239);
+}
+.runway{
+    height: 100px;
+    background: black;
+    position: relative;
+    top: 580px;
+}
